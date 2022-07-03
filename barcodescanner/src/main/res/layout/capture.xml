@@ -230,7 +230,7 @@
       android:layout_height="60dip"
       android:layout_gravity="bottom|center"
       android:textAllCaps="false"
-      android:text="close"
+      android:text="close x"
       android:textSize="40sp"
       android:background="#000000"
       android:textColor="@color/status_text"
